@@ -1,3 +1,5 @@
+[![Support with Binance Pay](https://img.shields.io/badge/Support-Binance%20Pay-F3BA2F?style=for-the-badge&logo=binance&logoColor=black)](#-buy-me-a-coffee)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=714B67&text=Angel%20Meléndez&fontColor=ffffff&fontSize=52&animation=fadeIn&desc=Odoo%20Developer%20%7C%20Python%20%7C%20Flutter&descAlignY=65" />
 </p>
@@ -26,3 +28,17 @@
 
 - Improve my Odoo skills even more
 - Increase my English level
+
+## ☕ Buy Me a Coffee
+
+<p align="center">
+  Support my work with USDT or crypto through Binance Pay.
+</p>
+
+<p align="center">
+  <img src="./assets/binance-pay.png" alt="Binance Pay QR - SocialcriptoVE" width="320" />
+</p>
+
+<p align="center">
+  <b>Binance Pay ID:</b> SocialcriptoVE
+</p>
