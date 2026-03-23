@@ -4,24 +4,6 @@
 📫 Contact: angeduar95@gmail.com  +584125311197
 🚀 Portfolio: https://Angeduar.github.io/Portafolio-AM
 
----
-
-## 🧑‍💻 About Me
-
-- I’m interested in process automation, mobile development, and software development.
-- I work with Python, JavaScript, React, Flutter, and Odoo.
-
----
-
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angeduar&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeduar&layout=compact&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=angeduar&theme=tokyonight)
-
----
 
 ## 🧰 Technologies
 
