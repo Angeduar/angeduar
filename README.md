@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=714B67&center=true&vCenter=true&width=900&lines=Odoo+Developer;Process+Automation;Python+%7C+Flutter+%7C+React;Building+useful+software" />
 </p>
 
-# 👋 Hi, I'm Angel Melendez
-
 💻 Developer focused on Odoo and software development in general  
 📫 Contact: angeduar95@gmail.com  +584125311197
 🚀 Portfolio: https://Angeduar.github.io/Portafolio-AM
