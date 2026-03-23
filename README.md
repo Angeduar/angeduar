@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=714B67&text=Angel%20Melendez&fontColor=ffffff&fontSize=52&animation=fadeIn&desc=Odoo%20Developer%20%7C%20Python%20%7C%20Flutter&descAlignY=65" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=714B67&center=true&vCenter=true&width=900&lines=Odoo+Developer;Process+Automation;Python+%7C+Flutter+%7C+React;Building+useful+software" />
+</p>
+
 # 👋 Hi, I'm Angel Melendez
 
 💻 Developer focused on Odoo and software development in general  
